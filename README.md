@@ -1,6 +1,6 @@
 # Hi!! 👋, I'm Thiago Alves
 
-- 🚀 Atualmente estudante na área de front-end
+- 🚀 Atualmente estudante na área de Desenvolvimento de Software
 - 📚 Estudando HTML, CSS e Javascript
 - 📧 Contate-me no e-mail: thiagoalvesamaral22@outlook.com
 
